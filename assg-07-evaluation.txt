@@ -1,0 +1,23 @@
+Assignment 07 Data Analytics Project
+
+Name     : Ishita Sharma 
+Due      : 12/13/2019
+Submitted: 12/13/2019
+
+Score: 100 / 100
+
+Exercise Evaluations and Assessments
+------------------------------------
+Yes - Student name and id provided in notebook
+Yes - iPython notebook submitted and all cells successfully run from top to bottom using Cell -> Run All
+
+Yes - Logically organized notebook
+Yes - Successfully loading the data from files.
+Yes - Performed some sort of visualization and/or data exploration
+Yes - Successfully demonstrated a regression or classification of some feature variable of the data.
+
+General Comments and Notes
+--------------------------
+
+Looks like lots of good work in this submission.  Actually submitted 3 separate notebooks showing
+some different explorations and parts of the analysis.  Built a nice classifier on the data.
